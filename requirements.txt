@@ -1,0 +1,5 @@
+jupyter
+tensorflow-gpu==1.15.0
+opencv-python
+tqdm
+numpy
